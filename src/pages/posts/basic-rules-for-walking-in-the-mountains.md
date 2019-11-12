@@ -6,7 +6,7 @@ thumb_img_path: /images/plane-1.jpg
 content_img_path: /images/plane.jpg
 excerpt: >-
   The large plane was packed, and I had been the guy holding it up. Not exactly
-  popular, I headed for my seat next to the 
+  popular, I headed for my seat next to the...
 menus:
   main:
     title: American Kids
