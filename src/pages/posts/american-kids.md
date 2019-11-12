@@ -8,7 +8,7 @@ excerpt: >-
   popular, I headed for my seat next to the...
 menus:
   main:
-    title: American Kids
+    title: ' '
 template: post
 ---
 Recently, I flew across the country to attend my Brother’s funeral. I may write about that some time in the future, but today I’d rather tell you about my trip.
