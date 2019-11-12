@@ -17,7 +17,7 @@ sections:
       - label: View Blog
         url: blog/index.html
     component: PostsBlock
-    num_posts_displayed: 4
+    num_posts_displayed: 8
     section_id: recent-posts
     title: Recent Posts
     type: postsblock
