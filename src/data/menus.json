@@ -1,1 +1,10 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "Menu",
+      "title": "menu title",
+      "url": "blog.thadstorix.com",
+      "weight": 1
+    }
+  ]
+}
