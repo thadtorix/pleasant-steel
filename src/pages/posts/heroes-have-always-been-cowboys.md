@@ -49,7 +49,3 @@ template: post
 <p>When you're a cop, there's an awful lot of nonsense to wade through. Some of it comes from the citizens you serve, and some from inside the walls of the department. It's easy to become a bit too jaded and lose track of what this profession is all about.</p>
 
 <p>This disturbance call has reminded me once again that this job of mine is not just some <em>burden</em> I carry, it's a <em>privilege</em> I've been granted.</p>
-
-<p>-----</p>
-
-<p>Have a look at the more popular posts from Thad Torix here:<br /><a href="http://thadtorix.com/2010/11/american-kids/">American Kids</a><br /><a href="http://thadtorix.com/2009/11/door-ding-perspective/">Door Ding Perspective</a><br /><a href="http://thadtorix.com/2009/11/handshake/">Silent Handshake</a><br /><a href="http://thadtorix.com/2009/08/hands/">Hands</a><br /><a href="http://thadtorix.com/2009/08/valentines-day-collision/">Valentines Day Collision</a><br /><a href="http://thadtorix.com/2010/01/policeman-narrated-by-paul-harvey/">Policeman</a></p>
