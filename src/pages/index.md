@@ -7,10 +7,10 @@ sections:
       them here.
 
 
-      Along with my own work, I'll be posting things I've found along the way:
-      Videos, worthwhile links, or just sites I believe you'll enjoy.
+      Along with my own work, you can find posts about places I've been or other
+      things I've found worth sharing.
     section_id: hero
-    title: Things I've Written | Things I've Found Along the Way | Places I've Been
+    title: Written | Found | Been
     type: heroblock
   - actions:
       - label: Contact Me
