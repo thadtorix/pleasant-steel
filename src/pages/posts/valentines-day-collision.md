@@ -4,8 +4,8 @@ date: 2009-02-14T06:00:00.000Z
 thumb_img_path: /images/crash.jpg
 menus:
   main:
-    title: Valentine's Day Collision
-    weight: 2
+    title: ''
+    weight: ''
 template: post
 ---
 {From 2009}\
