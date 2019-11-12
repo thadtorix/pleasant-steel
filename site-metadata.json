@@ -3,8 +3,8 @@
   "layout_style": "overflow",
   "palette": "blue",
   "header": {
-    "title": "Stackbit Fresh",
-    "tagline": "Header Tagline",
+    "title": "Thad S. Torix",
+    "tagline": "Things I've written & found along my journey",
     "profile_img": "/images/med-headshot.jpg",
     "bg": "dark",
     "has_nav": true,
@@ -14,9 +14,9 @@
     "content": "&copy; All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
+        "text": "Back to ThadSTorix.com",
+        "url": "https://www.thadstorix.com",
+        "new_window": false
       }
     ]
   }
