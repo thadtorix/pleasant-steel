@@ -2,6 +2,9 @@
 title: Immersed in Grief
 date: 2017-11-28T06:00:00.000Z
 thumb_img_path: /images/tears.jpg
+excerpt: >-
+  The fact that our patient refused to speak was not helping at all.  I hated
+  that she wouldn't speak, but I couldn't blame her...
 template: post
 ---
 <p>I've considered writing about this call for years, and am just now finding the time right to put this memory to words.  As I sit down to type, I do my best to work that lump out of my throat.  Truth is, this has taken some time to write, and I doubt mere words will adequately explain just how this felt.  I'm still not convinced I'm finished revising it.  Most all of the details have, of course, been changed.</p>
