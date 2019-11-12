@@ -6,7 +6,7 @@ sections:
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
     section_id: hero
-    title: Title of home page?
+    title: Things I've Written | Things I've Found Along the Way | Places I've Been
     type: heroblock
   - actions:
       - label: Contact Me
