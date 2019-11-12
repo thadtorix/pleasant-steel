@@ -12,10 +12,10 @@ sections:
       sharing.
 
 
-      If you've landed here by mistake, you can follow this link to jump back to
-      [ThadSTorix.com](https://thadstorix.com)
+      {If you've landed here by mistake, you can follow this link to jump back
+      to [ThadSTorix.com](https://thadstorix.com)}
     section_id: hero
-    title: Written | Found | Been
+    title: I've Written... Found... Been...
     type: heroblock
   - actions:
       - label: View Blog
