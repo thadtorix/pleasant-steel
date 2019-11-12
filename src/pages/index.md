@@ -3,9 +3,13 @@ title: Thad S. Torix
 sections:
   - component: HeroBlock
     content: >-
-      From time to time, I write a few words I hope are worth sharing and post
-      them here. Along with my own work, you can find posts about places I've
-      been or other things I've found worth sharing.
+      From time to time, I post some of the pieces of I've **written**. Along
+      with my own work, you'll find other things I've **found** worth sharing &
+      a little bit about places I've **been**.
+
+
+      you can find posts about places I've been or other things I've found worth
+      sharing.
 
 
       If you've landed here by mistake, you can follow this link to jump back to
