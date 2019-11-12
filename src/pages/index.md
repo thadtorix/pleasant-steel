@@ -4,26 +4,15 @@ sections:
   - component: HeroBlock
     content: >-
       From time to time, I write a few words I hope are worth sharing and post
-      them here.
+      them here. Along with my own work, you can find posts about places I've
+      been or other things I've found worth sharing.
 
 
-      Along with my own work, you can find posts about places I've been or other
-      things I've found worth sharing.
+      If you've landed here by mistake, you can follow this link to jump back to
+      [ThadSTorix.com](https://thadstorix.com)
     section_id: hero
     title: Written | Found | Been
     type: heroblock
-  - actions:
-      - label: Contact Me
-        url: /contact
-    component: ContentBlock
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
-    section_id: about
-    title: About
-    type: contentblock
   - actions:
       - label: View Blog
         url: blog/index.html
