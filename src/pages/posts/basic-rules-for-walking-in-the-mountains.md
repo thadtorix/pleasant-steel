@@ -1,7 +1,7 @@
 ---
 title: American Kids
-subtitle: ''
-date: '2018-01-09'
+subtitle: '[Originally posted in 2005, revised when re-published]'
+date: 2005-01-01T06:00:00.000Z
 thumb_img_path: /images/plane-1.jpg
 content_img_path: /images/plane.jpg
 excerpt: >-
