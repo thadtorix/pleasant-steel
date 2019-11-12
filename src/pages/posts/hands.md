@@ -2,6 +2,9 @@
 title: Hands
 date: 2019-11-12T23:28:52.577Z
 thumb_img_path: /images/hands.jpg
+excerpt: >-
+  While I’m speaking I notice the driver’s hands. The second I see his hands, I
+  know...
 template: post
 ---
 \[Originally published in 2009]
