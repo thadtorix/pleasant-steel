@@ -7,7 +7,7 @@ excerpt: >-
   the annual Christmas program at church. I also helped...
 menus:
   main:
-    title: My Dad's Here
+    title: ''
 template: post
 ---
 {I wrote this back in '05, and have updated the wording to make more sense, over a decade later. I hope you enjoy it! -Thad}
