@@ -3,7 +3,7 @@
     {
       "identifier": "Menu",
       "title": "menu title",
-      "url": "blog.thadstorix.com",
+      "url": "/",
       "weight": 1
     }
   ]
