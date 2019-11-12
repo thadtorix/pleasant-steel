@@ -7,8 +7,8 @@ excerpt: >-
   seemingly... 
 menus:
   main:
-    title: ''
-    weight: ''
+    title: ' '
+    weight: -1
 template: post
 ---
 {From 2009}\
