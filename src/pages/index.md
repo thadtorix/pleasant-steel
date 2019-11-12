@@ -3,8 +3,12 @@ title: Thad S. Torix
 sections:
   - component: HeroBlock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      From time to time, I write a few words I hope are worth sharing and post
+      them here.
+
+
+      Along with my own work, I'll be posting things I've found along the way:
+      Videos, worthwhile links, or just sites I believe you'll enjoy.
     section_id: hero
     title: Things I've Written | Things I've Found Along the Way | Places I've Been
     type: heroblock
