@@ -7,6 +7,10 @@ content_img_path: /images/plane.jpg
 excerpt: >-
   The large plane was packed, and I had been the guy holding it up. Not exactly
   popular, I headed for my seat next to the 
+menus:
+  main:
+    title: American Kids
+    weight: 1
 template: post
 ---
 Recently, I flew across the country to attend my Brother's funeral. I may write about that some time in the future, but today I'd rather tell you about my trip.
