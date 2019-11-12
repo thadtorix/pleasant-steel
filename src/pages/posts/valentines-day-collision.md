@@ -2,6 +2,9 @@
 title: Valentine's Day Collision
 date: 2009-02-14T06:00:00.000Z
 thumb_img_path: /images/crash.jpg
+excerpt: >-
+  We arrive at the emergency room and I take Raymond to Valerie’s room, where
+  seemingly... 
 menus:
   main:
     title: ''
