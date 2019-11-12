@@ -1,6 +1,6 @@
 ---
 title: Unique Responder
-date: 2002-11-06T06:00:00.000Z
+date: 2012-11-06T06:00:00.000Z
 thumb_img_path: /images/disp.jpg
 excerpt: >-
   In town, when the ambulance is nearby, a minute feels like five. In a rural
@@ -10,7 +10,7 @@ template: post
 ---
 <In most all of my stories, the names are changed.  In this one, Nathan is in fact the actual name of one of my closest friends and one of the best responders I've ever worked with.>
 
-<p>I started a career in EMS in 1994 at the age of 18. Since that time I’ve worked as an EMT, an Advanced EMT, a Paramedic, a Flight Paramedic, a Police Officer, and even a few years in there somewhere as a 911 dispatcher. In the time that has passed since then and now, like so many others, I’ve seen my share of gore and heartache and tragedy. I’ve told more people than I can count that their loved ones are gone, and on a few occasions those loved ones have been their young children. I’ve spent 45 minutes in an ambulance caring for a critically wounded woman who spent the entire time in wailing as she had just learned her daughter was killed in the same accident. The stress I’ve endured and been a part of is, in all honesty, not near as much as so many other veteran medics or officers I’ve had the pleasure of serving alongside.</p>
+<p>I started a career in EMS in 1994 at the age of 18. Since that time I’ve worked as an EMT, an Advanced EMT, a Paramedic, a Flight Paramedic, a Police Officer, and even a few years in there somewhere as a 911 dispatcher. In the time that has passed since then and now, like so many others, I’ve seen my share of gore and heartache and tragedy. I’ve told more people than I can count that their loved ones are gone, and on a few occasions those loved ones have been their young children. I’ve spent 45 minutes in an ambulance caring for a critically wounded woman who spent the entire time wailing as she had just learned her daughter was killed in the same accident. The stress I’ve endured and been a part of is, in all honesty, not near as much as so many other veteran medics or officers I’ve had the pleasure of serving alongside.</p>
 
 <p>In fact, the most agonizing stress I’ve been a part of was not on scene at all. It wasn’t at a hospital or even in a home delivering the worst news. It was, on a weekend morning in the basement of Cox Medical Center North in Springfield, Missouri. Nathan Preston, was my partner in dispatch, and had been my friend for years (He still is). I don’t remember all of the details of the call Nathan took that morning. I remember that he was the call taker and I was the dispatcher. Having done my part of sending the ambulance towards the residence, the only thing left for me to do was to listen in. I listened as Nathan gave what we call “Pre-Arrival Instructions” to the father of an infant who had found his boy lifeless that morning.</p>
 
