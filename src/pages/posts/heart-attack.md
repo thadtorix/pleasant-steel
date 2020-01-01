@@ -21,4 +21,4 @@ template: post
 
 
 
-\#Flatirons #Flatironschurch #marriage #encouragement #thingsifound #Divorce #lust #love #Sermononthemount
+\#Flatirons #Flatironschurch #marriage #encouragement #thingsifound #found #Divorce #lust #love #Sermononthemount
