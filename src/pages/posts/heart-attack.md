@@ -1,6 +1,8 @@
 ---
 title: Heart Attack
+subtitle: Real talk without condemnation about your relationship.
 date: 2020-01-01T17:12:30.736Z
+thumb_img_path: /images/heart-attack.jpg
 template: post
 ---
 <p>Flatirons church focused on Christ's Sermon on the Mount for months and they completely nailed it!</p>
