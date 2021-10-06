@@ -7,7 +7,7 @@ content_img_path: /images/folded.jpeg
 excerpt: The Skit Guys illustrate a fun, and real, look at how we pray
 menus:
   main:
-    title: ""
+    title: The Skit Guys illustrate a fun, and real, look at how we pray
     weight: ""
 template: post
 ---
