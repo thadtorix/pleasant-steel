@@ -3,14 +3,13 @@ title: A Worthy Cause
 subtitle: Considering a life of public service?
 date: 2014-12-22T06:00:00.000Z
 thumb_img_path: /images/ems.jpg
-excerpt: >-
-  It is difficult to convey the emotion felt by a public servant who stands in a
-  home, surrounded by a family wondering if... 
+excerpt: "It is difficult to convey the emotion felt by a public servant who
+  stands in a home, surrounded by a family wondering if... "
 template: post
 ---
 <p>A week or two ago, I gave brief closing remarks at our EMT &amp; Fire Academy graduation.&nbsp; Apparently, it wasn't awful, so I'll share it here:</p>
 
-<p>------</p>
+<p>-------</p>
 
 <p>Some time ago each of you entered into an agreement with those of us charged with your education.&nbsp; You believed that when an emergency occurs there ought to be someone there who knows what to do, and that somebody might as well be you.</p>
 
