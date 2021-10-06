@@ -1,13 +1,13 @@
 ---
 title: "The Way We Pray "
-subtitle: ""
+subtitle: The Skit  Guys illustrate prayer in a very funny, and very real, way.
 date: 2021-10-06T15:58:36.185Z
-thumb_img_path: ""
-content_img_path: /images/folded.jpg
+thumb_img_path: /images/folded.jpg
+content_img_path: ""
 excerpt: ""
 menus:
   main:
-    title: "The Skit  Guys illustrate prayer in a very funny, and very real, way:"
+    title: ""
     weight: ""
     identifier: ""
 template: post
