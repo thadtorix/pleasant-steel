@@ -2,8 +2,8 @@
 title: "The Way We Pray "
 subtitle: ""
 date: 2021-10-06T15:58:36.185Z
-thumb_img_path: /images/folded.jpg
-content_img_path: ""
+thumb_img_path: ""
+content_img_path: /images/folded.jpg
 excerpt: ""
 menus:
   main:
