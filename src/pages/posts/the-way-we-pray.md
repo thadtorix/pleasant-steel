@@ -2,6 +2,7 @@
 title: "The Way We Pray "
 subtitle: The Skit Guys illustrate a fun, and real, look at how we pray
 date: 2021-10-06T15:58:36.185Z
+thumb_img_path: /images/folded.jpeg
 menus:
   main:
     title: ""
