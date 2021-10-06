@@ -11,7 +11,7 @@ template: post
 
 <p>-------</p>
 
-<p>Some time ago each of you entered into an agreement with those of us charged with your education.&nbsp; You believed that when an emergency occurs there ought to be someone there who knows what to do, and that somebody might as well be you.</p>
+<p>Some time ago, each of you entered into an agreement with those of us charged with your education.&nbsp; You believed that when an emergency occurs there ought to be someone there who knows what to do, and that somebody might as well be you.</p>
 
 <p>Your attraction to this line of work is easy enough to understand.&nbsp; Flashing lights &amp; sirens cause traffic to move out of the way, while you experience the adrenaline rush that comes from being able to help someone during their emergency.&nbsp; Often times, the hardest part of the day is washing a rig that was, well, already clean, and almost every day involves taking a nap.&nbsp; I suppose it's true what they say, "when this job is easy, it's real easy."</p>
 
